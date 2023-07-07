@@ -1,5 +1,5 @@
 # Chat2Chart
-通过利用LLM从数据库特征及元数据，通过一条prompt直接生成可用的图表，实现自动化数据可视化。
+利用LLM从数据库特征及元数据，通过一条prompt直接生成可用的图表，实现自动化数据可视化。
 
 This open-source project aims to automate data visualization by utilizing LLM to generate usable charts directly from database features and metadata using a single prompt.
 
